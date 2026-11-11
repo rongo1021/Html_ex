@@ -1,0 +1,29 @@
+#wrap{
+    width: 800px;
+    border: 1px solid #bababa;
+    border-radius: 10px;
+    margin: 30px auto;
+    padding: 80px 50px 80px 50px;
+    box-shadow: 3px 3px 3px #bababa;
+}
+.to{
+    font-style: italic;
+    text-align: left;
+}
+.head{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    padding: 10px 0 20px 0;
+    border-bottom: double #bababa;
+}
+.body{
+    width: 90%;
+    margin: auto;
+    padding-top: 15px;
+}
+.from{
+    font-style: italic;
+    text-align: right;
+    padding-top: 30px;
+}
