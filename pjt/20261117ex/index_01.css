@@ -44,3 +44,37 @@ aside {
     min-width: 280px;
 }
 
+aside div {
+    width: 90%;
+    margin: 10px auto 20px;
+}
+
+aside .quickmenu {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #dadada;
+}
+
+aside .quickmenu p {
+    padding: 5px 0;
+}
+
+aside .menu {
+    font-size: small;
+    padding: 10px 0 8px;
+}
+
+aside .top {
+    padding: 2px 0;
+}
+
+section .buttens {
+    display: flex;
+    align-items: center;
+}
+
+section .buttens div {
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 auto;
+}
