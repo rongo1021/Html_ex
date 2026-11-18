@@ -1,0 +1,26 @@
+#wrap {
+    width: 345px;
+    margin: 10px auto;
+}
+
+#wrap > table {
+    border-collapse: collapse;
+}
+
+#wrap > table td {
+    padding: 12px 4px;
+}
+
+#wrap > table td div:nth-child(1) img {
+    min-width: 107px;
+    max-width: 107px;
+}
+
+#wrap > table td div:nth-child(2) p {
+    font-size: .8em;
+    text-align: center;
+}
+
+#wrap > table td div p:nth-of-type(1) {
+    font-weight: bold;
+}
