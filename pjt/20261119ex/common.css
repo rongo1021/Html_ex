@@ -1,14 +1,23 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 a {
-    color: #242424;
     text-decoration: none;
+    color: #242424;
 }
 
 a:hover {
     text-decoration: underline;
+
+}
+
+ul {
+    overflow: hidden;
+}
+
+li {
+    list-style: none;
+    float: left;
 }
