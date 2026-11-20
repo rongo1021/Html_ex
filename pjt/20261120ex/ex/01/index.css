@@ -1,0 +1,9 @@
+#wrap {
+    width: 900px;
+    margin: 5px auto;
+}
+
+.report_wrap {
+    display: flex;
+    flex-direction: row;
+}
